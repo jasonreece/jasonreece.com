@@ -1,0 +1,10 @@
+// - - - - - - - - - - - - - - - - - - -
+// - - navs module
+// styles for the navs module
+
+.nav-link {
+  display: block;
+  @include media-breakpoint-up(sm) {
+    display: inline-block;
+  }
+}
