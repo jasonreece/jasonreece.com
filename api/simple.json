@@ -1,18 +1,20 @@
-{
-  "heading": "one"
-},
-{
-  "heading": "two"
-},
-{
-  "heading": "three"
-},
-{
-  "heading": "four"
-},
-{
-  "heading": "five"
-},
-{
-  "heading": "six"
-}
+[
+  {
+    "heading": "one"
+  },
+  {
+    "heading": "two"
+  },
+  {
+    "heading": "three"
+  },
+  {
+    "heading": "four"
+  },
+  {
+    "heading": "five"
+  },
+  {
+    "heading": "six"
+  }
+]
