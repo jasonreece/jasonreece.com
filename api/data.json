@@ -4,13 +4,27 @@
 	"Sections": [{
 		"Source": "nerd-thrones",
 		"Data": {
+			"BlogPostSlayer": {
+				"top_post_hits": "3855",
+				"top_post_author": "Chris Stewart",
+				"top_post_title": "Splash Screens the Right Way",
+				"top_post_link": "https://bignerdranch.com/blog/splash-screens-the-right-way/",
+				"top_post_img": "/assets/img/about/the-team/headshots/chris-stewart.jpg",
+				"top_time_post_duration": "723.3411764705883",
+				"top_time_post_author": "Ryan Brooks",
+				"top_time_post_title": "Expand a RecyclerView in Four Steps",
+				"top_time_post_link": "https://bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/",
+				"top_time_post_img": "/assets/img/about/the-team/headshots/ryan-brooks.jpg"
+			},
 			"CodeDeleter": {
 				"Name": "jpclaude",
 				"AvatarURL": "https://avatars3.githubusercontent.com/u/2933797?v=3",
 				"Additions": 114868,
 				"Deletions": 96938,
 				"Commits": 25,
-				"Comments": 0
+				"Comments": 0,
+				"PRsOpened": 0,
+				"PRsClosed": 0
 			},
 			"Commenter": {
 				"Name": "jeremy-w",
@@ -18,7 +32,29 @@
 				"Additions": 0,
 				"Deletions": 0,
 				"Commits": 0,
-				"Comments": 58
+				"Comments": 58,
+				"PRsOpened": 3,
+				"PRsClosed": 0
+			},
+			"PRCloser": {
+				"Name": "charliemaffitt",
+				"AvatarURL": "https://avatars2.githubusercontent.com/u/58084?v=3",
+				"Additions": 933,
+				"Deletions": 542,
+				"Commits": 48,
+				"Comments": 0,
+				"PRsOpened": 16,
+				"PRsClosed": 16
+			},
+			"PROpener": {
+				"Name": "charliemaffitt",
+				"AvatarURL": "https://avatars2.githubusercontent.com/u/58084?v=3",
+				"Additions": 933,
+				"Deletions": 542,
+				"Commits": 48,
+				"Comments": 0,
+				"PRsOpened": 16,
+				"PRsClosed": 16
 			}
 		}
 	}, {
