@@ -1,0 +1,12 @@
+{
+  "user_email": "jreece@bignerdranch.com",
+  "subscribe": true,
+  "sections": [
+    "nerd-thrones",
+    "nerdnotes",
+    "nerdtv",
+    "bnrblog",
+    "github-opensource",
+    "github-activerepos"
+  ]
+}
