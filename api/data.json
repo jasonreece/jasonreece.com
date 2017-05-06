@@ -1,818 +1,625 @@
-[{
-		"IssueNum": 0,
-		"IssueDate": "2017-04-28T19:30:34.362947437Z",
-		"Sections": [{
-			"Source": "nerd-thrones",
-			"Data": {
-				"CodeDeleter": {
-					"Name": "jpclaude",
-					"AvatarURL": "https://avatars3.githubusercontent.com/u/2933797?v=3",
-					"Additions": 114868,
-					"Deletions": 96938,
-					"Commits": 25,
-					"Comments": 0
-				},
-				"Commenter": {
-					"Name": "jeremy-w",
-					"AvatarURL": "https://avatars1.githubusercontent.com/u/29010?v=3",
-					"Additions": 0,
-					"Deletions": 0,
-					"Commits": 0,
-					"Comments": 54
-				}
-			}
-		}, {
-			"Source": "nerdnotes",
-			"Data": [{
-				"Date": "2017-04-11T00:00:00Z",
-				"Author": "@mohammad",
-				"Title": "Open Source Is Complicated",
-				"Summary": "\u003cp\u003eMy first week at Big Nerd Ranch came with a lot of freedom and opportunity to choose my own path. I decided to \u003ca href=\"https://github.com/bignerdranch/Deferred/pull/176\" rel=\"nofollow\"\u003ecreate a PR\u003c/a\u003e for an open issue on Deferred, a library I’ve used in past \u003ca href=\"http://projects.My\" rel=\"nofollow\"\u003eprojects.My\u003c/a\u003e history with open source contributions has mostly been \u003ca href=\"https://github.com/UrbanApps/Armchair/pull/89\" rel=\"nofollow\"\u003efixing\u003c/a\u003e \u003ca href=\"https://github.com/lkzhao/Hero/pull/115\" rel=\"nofollow\"\u003ebuild\u003c/a\u003e \u003ca href=\"https://github.com/JaviSoto/JSBadgeView/pull/21\" rel=\"nofollow\"\u003eerrors\u003c/a\u003e that were blocking me. This contribution was a departure for me and came with a number of new challenges I haven’t faced before when crafting PRs.\u003c/p\u003e\n"
-			}, {
-				"Date": "2017-04-03T00:00:00Z",
-				"Author": "@chrismorris",
-				"Title": "A Dream Deferred",
-				"Summary": "\u003cp\u003eI learned a few things about \u003ca href=\"https://github.com/bignerdranch/Deferred\" rel=\"nofollow\"\u003eDeferred\u003c/a\u003e this past week, and I wanted to pass along these tips.  If I am wrong about any of my assertions here, please do not hesitate to correct me.  This is all still just a working understanding.If you haven’t used \u003ccode\u003eDeferred\u003c/code\u003e yet, I encourage you to give it a shot.  I will admit, that the initial learning curve was kinda steep for me, but once I got past that, I could follow “the pattern” and it wasn’t tough to use at all.  Much like learning swift optionals, I had to wrap my head around it before I could fully embrace it.  Once you embrace it, you wonder how you could live without it.\u003c/p\u003e\n"
-			}, {
-				"Date": "2017-03-27T00:00:00Z",
-				"Author": "@CodingItWrong",
-				"Title": "tvOS Content Proposals",
-				"Summary": "\u003cp\u003eOn Seeso tvOS I got to implement a tvOS \u003ca href=\"https://developer.apple.com/library/content/documentation/AudioVideo/Conceptual/MediaPlaybackGuide/Contents/Resources/en.lproj/UsingAVKitPlatformFeatures/UsingAVKitPlatformFeatures.html#//apple_ref/doc/uid/TP40016757-CH5-SW25\" rel=\"nofollow\"\u003eContent Proposal\u003c/a\u003e – basically the “Up Next” screen that is often shown on streaming video services when a video is almost done.\u003c/p\u003e\n"
-			}]
-		}, {
-			"Source": "nerdtv",
-			"Data": [{
-				"title": "Fireside Chat - 05.02.2017",
-				"link": "https://www.youtube.com/watch?v=HsS--_KyhjM",
-				"published": "2017-05-02T16:53:37Z",
-				"thumbnail": "https://i9.ytimg.com/vi/HsS--_KyhjM/mqdefault.jpg?sqp=CLils8gF\u0026rs=AOn4CLCjSLXw2aXUf91-lkPCRLqXhAfQfg"
-			}, {
-				"title": "NST - Dan Ra - Whiskey",
-				"link": "https://www.youtube.com/watch?v=YLLKSAriSnU",
-				"published": "2017-05-02T16:51:30Z",
-				"thumbnail": "https://i9.ytimg.com/vi/YLLKSAriSnU/mqdefault.jpg?sqp=CLils8gF\u0026rs=AOn4CLBiAXQ44-jwTrGSlq4IP01aJSLMdA"
-			}, {
-				"title": "NST - Caitlin - Pessimism",
-				"link": "https://www.youtube.com/watch?v=8fYt6vjfrSM",
-				"published": "2017-04-18T18:03:24Z",
-				"thumbnail": "https://i9.ytimg.com/vi/8fYt6vjfrSM/mqdefault.jpg?sqp=CLils8gF\u0026rs=AOn4CLCm_mmsZQ1DEhLNVzBsRxaBcjpXrw"
-			}]
-		}, {
-			"Source": "bnrblog",
-			"Data": [{
-				"title": "Sixth Annual Clash of the Coders",
-				"link": "https://www.bignerdranch.com/blog/sixth-annual-clash-of-the-coders/",
-				"description": "For the past six years, Big Nerd Ranch has held a three-day app building competition called \u003ca href=\"https://www.bignerdranch.com/blog/?q=clash%20of%20the%20coders\"\u003eClash of the Coders\u003c/a\u003e, and we’re proud to say that this year is no different. During these seventy-two hours, we challenge our Nerds to explore new technologies, push their skills to the limit and consume as much coffee as humanly possible.",
-				"timestamp": "2017-05-02T00:00:00Z",
-				"author": "Jade Hill",
-				"authorimg": "/assets/img/about/the-team/headshots/jade-hill.jpg"
-			}, {
-				"title": "From Coding Bootcamp to Full-Time Developer… A Journey to Big Nerd Ranch",
-				"link": "https://www.bignerdranch.com/blog/from-coding-bootcamp-to-full-time-developer-a-journey-to-big-nerd-ranch/",
-				"description": "I didn’t always know I wanted to be an Android Developer. In fact, it happened in the midst of a major life change. I struggled, like many college graduates, to figure out what I wanted to do in life. With a B.A. in Political Science and a M.S. in Sports Management, I knew I could be a lawyer or a politician, or work in an athletics department. But none of those really appealed to me.",
-				"timestamp": "2017-05-01T00:00:00Z",
-				"author": "Rashad Cureton",
-				"authorimg": "/assets/img/about/the-team/headshots/rashad-cureton.jpg"
-			}]
-		}, {
-			"Source": "github-opensource",
-			"Data": [{
-				"Owner": "bignerdranch",
-				"Repo": "expandable-recycler-view",
-				"IssuesOpenedSince": 3,
-				"IssuesClosedSince": 1,
-				"TotalOpenIssues": 44,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Deferred",
-				"IssuesOpenedSince": 1,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 5,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "ratify",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 10,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Freddy",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 22,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 3
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "recyclerview-multiselect",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 14,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "simple-item-decoration",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 14,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "CoreDataStack",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}]
-		}, {
-			"Source": "github-activerepos",
-			"Data": [{
-				"Owner": "CarePlus",
-				"Repo": "connxcare-hospital-backend",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 16,
-				"PRsClosedSince": 16,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "captioncall-hpa-ios",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 16,
-				"PRsClosedSince": 14,
-				"TotalOpenPRs": 5
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "learning-machine-android",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 15,
-				"PRsClosedSince": 14,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "Rollins",
-				"Repo": "Orkin-BizSuite-Inspect",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 7,
-				"PRsClosedSince": 9,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "repair-dog-ios",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 6,
-				"PRsClosedSince": 8,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "blogposts",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 1,
-				"TotalOpenIssues": 18,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 22
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Nerdherder-iOS",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 9,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "web-security-book",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 3,
-				"PRsOpenedSince": 3,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "CarePlus",
-				"Repo": "connxcare-frontend",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Sorenson-nTouchKeypad",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 2,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "training",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "CarePlus",
-				"Repo": "connxcare-content-backend",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "AdvancediOSBook",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 25,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "stable",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 10,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "ios-security",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 3
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "bnr.com",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "4kargarage",
-				"IssuesOpenedSince": 1,
-				"IssuesClosedSince": 1,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "BigShow",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 18,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "AdvancedSwift",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 8,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 11
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "android",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 12,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 6
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "smithsonian",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "iOSBook",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 41,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 4
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Receipts-iOS",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "why_elixir",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "captioncall-hpa-ios-credentials",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "infraduino",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "4kargarage-front-end",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "bnr-ios-certificates",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "vapor-testing-example",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}]
-		}]
-	},
-
-	{
-		"IssueNum": 1,
-		"IssueDate": "2017-05-10T19:30:34.362947437Z",
-		"Sections": [{
-			"Source": "nerd-thrones",
-			"Data": {
-				"CodeDeleter": {
-					"Name": "jpclaude",
-					"AvatarURL": "https://avatars3.githubusercontent.com/u/2933797?v=3",
-					"Additions": 114868,
-					"Deletions": 96938,
-					"Commits": 25,
-					"Comments": 0
-				},
-				"Commenter": {
-					"Name": "jeremy-w",
-					"AvatarURL": "https://avatars1.githubusercontent.com/u/29010?v=3",
-					"Additions": 0,
-					"Deletions": 0,
-					"Commits": 0,
-					"Comments": 54
-				}
-			}
-		}, {
-			"Source": "nerdnotes",
-			"Data": [{
-				"Date": "2017-04-11T00:00:00Z",
-				"Author": "@mohammad",
-				"Title": "Open Source Is Complicated",
-				"Summary": "\u003cp\u003eMy first week at Big Nerd Ranch came with a lot of freedom and opportunity to choose my own path. I decided to \u003ca href=\"https://github.com/bignerdranch/Deferred/pull/176\" rel=\"nofollow\"\u003ecreate a PR\u003c/a\u003e for an open issue on Deferred, a library I’ve used in past \u003ca href=\"http://projects.My\" rel=\"nofollow\"\u003eprojects.My\u003c/a\u003e history with open source contributions has mostly been \u003ca href=\"https://github.com/UrbanApps/Armchair/pull/89\" rel=\"nofollow\"\u003efixing\u003c/a\u003e \u003ca href=\"https://github.com/lkzhao/Hero/pull/115\" rel=\"nofollow\"\u003ebuild\u003c/a\u003e \u003ca href=\"https://github.com/JaviSoto/JSBadgeView/pull/21\" rel=\"nofollow\"\u003eerrors\u003c/a\u003e that were blocking me. This contribution was a departure for me and came with a number of new challenges I haven’t faced before when crafting PRs.\u003c/p\u003e\n"
-			}, {
-				"Date": "2017-04-03T00:00:00Z",
-				"Author": "@chrismorris",
-				"Title": "A Dream Deferred",
-				"Summary": "\u003cp\u003eI learned a few things about \u003ca href=\"https://github.com/bignerdranch/Deferred\" rel=\"nofollow\"\u003eDeferred\u003c/a\u003e this past week, and I wanted to pass along these tips.  If I am wrong about any of my assertions here, please do not hesitate to correct me.  This is all still just a working understanding.If you haven’t used \u003ccode\u003eDeferred\u003c/code\u003e yet, I encourage you to give it a shot.  I will admit, that the initial learning curve was kinda steep for me, but once I got past that, I could follow “the pattern” and it wasn’t tough to use at all.  Much like learning swift optionals, I had to wrap my head around it before I could fully embrace it.  Once you embrace it, you wonder how you could live without it.\u003c/p\u003e\n"
-			}, {
-				"Date": "2017-03-27T00:00:00Z",
-				"Author": "@CodingItWrong",
-				"Title": "tvOS Content Proposals",
-				"Summary": "\u003cp\u003eOn Seeso tvOS I got to implement a tvOS \u003ca href=\"https://developer.apple.com/library/content/documentation/AudioVideo/Conceptual/MediaPlaybackGuide/Contents/Resources/en.lproj/UsingAVKitPlatformFeatures/UsingAVKitPlatformFeatures.html#//apple_ref/doc/uid/TP40016757-CH5-SW25\" rel=\"nofollow\"\u003eContent Proposal\u003c/a\u003e – basically the “Up Next” screen that is often shown on streaming video services when a video is almost done.\u003c/p\u003e\n"
-			}]
-		}, {
-			"Source": "nerdtv",
-			"Data": [{
-				"title": "Fireside Chat - 05.02.2017",
-				"link": "https://www.youtube.com/watch?v=HsS--_KyhjM",
-				"published": "2017-05-02T16:53:37Z",
-				"thumbnail": "https://i9.ytimg.com/vi/HsS--_KyhjM/mqdefault.jpg?sqp=CLils8gF\u0026rs=AOn4CLCjSLXw2aXUf91-lkPCRLqXhAfQfg"
-			}, {
-				"title": "NST - Dan Ra - Whiskey",
-				"link": "https://www.youtube.com/watch?v=YLLKSAriSnU",
-				"published": "2017-05-02T16:51:30Z",
-				"thumbnail": "https://i9.ytimg.com/vi/YLLKSAriSnU/mqdefault.jpg?sqp=CLils8gF\u0026rs=AOn4CLBiAXQ44-jwTrGSlq4IP01aJSLMdA"
-			}, {
-				"title": "NST - Caitlin - Pessimism",
-				"link": "https://www.youtube.com/watch?v=8fYt6vjfrSM",
-				"published": "2017-04-18T18:03:24Z",
-				"thumbnail": "https://i9.ytimg.com/vi/8fYt6vjfrSM/mqdefault.jpg?sqp=CLils8gF\u0026rs=AOn4CLCm_mmsZQ1DEhLNVzBsRxaBcjpXrw"
-			}]
-		}, {
-			"Source": "bnrblog",
-			"Data": [{
-				"title": "Sixth Annual Clash of the Coders",
-				"link": "https://www.bignerdranch.com/blog/sixth-annual-clash-of-the-coders/",
-				"description": "For the past six years, Big Nerd Ranch has held a three-day app building competition called \u003ca href=\"https://www.bignerdranch.com/blog/?q=clash%20of%20the%20coders\"\u003eClash of the Coders\u003c/a\u003e, and we’re proud to say that this year is no different. During these seventy-two hours, we challenge our Nerds to explore new technologies, push their skills to the limit and consume as much coffee as humanly possible.",
-				"timestamp": "2017-05-02T00:00:00Z",
-				"author": "Jade Hill",
-				"authorimg": "/assets/img/about/the-team/headshots/jade-hill.jpg"
-			}, {
-				"title": "From Coding Bootcamp to Full-Time Developer… A Journey to Big Nerd Ranch",
-				"link": "https://www.bignerdranch.com/blog/from-coding-bootcamp-to-full-time-developer-a-journey-to-big-nerd-ranch/",
-				"description": "I didn’t always know I wanted to be an Android Developer. In fact, it happened in the midst of a major life change. I struggled, like many college graduates, to figure out what I wanted to do in life. With a B.A. in Political Science and a M.S. in Sports Management, I knew I could be a lawyer or a politician, or work in an athletics department. But none of those really appealed to me.",
-				"timestamp": "2017-05-01T00:00:00Z",
-				"author": "Rashad Cureton",
-				"authorimg": "/assets/img/about/the-team/headshots/rashad-cureton.jpg"
-			}]
-		}, {
-			"Source": "github-opensource",
-			"Data": [{
-				"Owner": "bignerdranch",
-				"Repo": "expandable-recycler-view",
-				"IssuesOpenedSince": 3,
-				"IssuesClosedSince": 1,
-				"TotalOpenIssues": 44,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Deferred",
-				"IssuesOpenedSince": 1,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 5,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "ratify",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 10,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Freddy",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 22,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 3
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "recyclerview-multiselect",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 14,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "simple-item-decoration",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 14,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "CoreDataStack",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}]
-		}, {
-			"Source": "github-activerepos",
-			"Data": [{
-				"Owner": "CarePlus",
-				"Repo": "connxcare-hospital-backend",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 16,
-				"PRsClosedSince": 16,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "captioncall-hpa-ios",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 16,
-				"PRsClosedSince": 14,
-				"TotalOpenPRs": 5
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "learning-machine-android",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 15,
-				"PRsClosedSince": 14,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "Rollins",
-				"Repo": "Orkin-BizSuite-Inspect",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 7,
-				"PRsClosedSince": 9,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "repair-dog-ios",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 6,
-				"PRsClosedSince": 8,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "blogposts",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 1,
-				"TotalOpenIssues": 18,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 22
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Nerdherder-iOS",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 9,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "web-security-book",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 3,
-				"PRsOpenedSince": 3,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "CarePlus",
-				"Repo": "connxcare-frontend",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Sorenson-nTouchKeypad",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 2,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "training",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "CarePlus",
-				"Repo": "connxcare-content-backend",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 2,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "AdvancediOSBook",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 25,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "stable",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 10,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "ios-security",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 3
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "bnr.com",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 2,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "4kargarage",
-				"IssuesOpenedSince": 1,
-				"IssuesClosedSince": 1,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "BigShow",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 18,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 2
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "AdvancedSwift",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 8,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 11
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "android",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 12,
-				"PRsOpenedSince": 1,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 6
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "smithsonian",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 1,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "iOSBook",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 41,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 4
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "Receipts-iOS",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 1
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "why_elixir",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 1,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "captioncall-hpa-ios-credentials",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "infraduino",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "4kargarage-front-end",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "bnr-ios-certificates",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}, {
-				"Owner": "bignerdranch",
-				"Repo": "vapor-testing-example",
-				"IssuesOpenedSince": 0,
-				"IssuesClosedSince": 0,
-				"TotalOpenIssues": 0,
-				"PRsOpenedSince": 0,
-				"PRsClosedSince": 0,
-				"TotalOpenPRs": 0
-			}]
-		}]
-	}
-]
+{
+   "IssueNum":1,
+   "IssueDate":"2017-03-23T15:54:17.88989501-04:00",
+   "Sections":[
+      {
+         "Source":"nerd-thrones",
+         "Data":{
+            "CodeDeleter":{
+               "Name":"jpclaude",
+               "Additions":114792,
+               "Deletions":96814,
+               "Commits":19,
+               "Comments":0
+            },
+            "Commenter":{
+               "Name":"alunsford3",
+               "Additions":25976,
+               "Deletions":152,
+               "Commits":12,
+               "Comments":153
+            }
+         }
+      },
+      {
+         "Source":"github-opensource",
+         "Data":[
+            {
+               "Owner":"bignerdranch",
+               "Repo":"expandable-recycler-view",
+               "IssuesOpenedSince":10,
+               "IssuesClosedSince":10,
+               "TotalOpenIssues":44,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":1,
+               "TotalOpenPRs":2
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"Deferred",
+               "IssuesOpenedSince":3,
+               "IssuesClosedSince":3,
+               "TotalOpenIssues":5,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":3,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"Freddy",
+               "IssuesOpenedSince":2,
+               "IssuesClosedSince":2,
+               "TotalOpenIssues":22,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":3
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"CoreDataStack",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":2,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":3,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"ratify",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":10,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":2,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"recyclerview-multiselect",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":14,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":2
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"simple-item-decoration",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":14,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":1
+            }
+         ]
+      },
+      {
+         "Source":"github-activerepos",
+         "Data":[
+            {
+               "Owner":"bignerdranch",
+               "Repo":"AdvancedSwift",
+               "IssuesOpenedSince":7,
+               "IssuesClosedSince":15,
+               "TotalOpenIssues":8,
+               "PRsOpenedSince":4,
+               "PRsClosedSince":48,
+               "TotalOpenPRs":11
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"captioncall-hpa-ios",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":5,
+               "PRsClosedSince":60,
+               "TotalOpenPRs":5
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"bnr.com",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":60,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"learning-machine-android",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":60,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"Rollins",
+               "Repo":"Orkin-BizSuite-Inspect",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":53,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"CarePlus",
+               "Repo":"connxcare-hospital-backend",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":33,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"blogposts",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":18,
+               "PRsOpenedSince":10,
+               "PRsClosedSince":15,
+               "TotalOpenPRs":22
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"repair-dog-ios",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":24,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"Sorenson-nTouchKeypad",
+               "IssuesOpenedSince":2,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":2,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":21,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"training",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":1,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":17,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"CarePlus",
+               "Repo":"connxcare-content-backend",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":15,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"android-developer-documentation",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":11,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":11
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"web-security-book",
+               "IssuesOpenedSince":3,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":3,
+               "PRsOpenedSince":2,
+               "PRsClosedSince":4,
+               "TotalOpenPRs":2
+            },
+            {
+               "Owner":"CarePlus",
+               "Repo":"Naveon-Android",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":10,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"CarePlus",
+               "Repo":"connxcare-frontend",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":8,
+               "TotalOpenPRs":3
+            },
+            {
+               "Owner":"CarePlus",
+               "Repo":"ConnxCare-iOS",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":8,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"android",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":12,
+               "PRsOpenedSince":5,
+               "PRsClosedSince":3,
+               "TotalOpenPRs":5
+            },
+            {
+               "Owner":"Rollins",
+               "Repo":"Present",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":7,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"BigShow",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":18,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":5,
+               "TotalOpenPRs":2
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"stable",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":10,
+               "PRsOpenedSince":2,
+               "PRsClosedSince":4,
+               "TotalOpenPRs":2
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"ios-security",
+               "IssuesOpenedSince":1,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":1,
+               "PRsOpenedSince":2,
+               "PRsClosedSince":3,
+               "TotalOpenPRs":3
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"swift-book",
+               "IssuesOpenedSince":1,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":2,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":4,
+               "TotalOpenPRs":2
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"AdvancediOSBook",
+               "IssuesOpenedSince":1,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":25,
+               "PRsOpenedSince":2,
+               "PRsClosedSince":2,
+               "TotalOpenPRs":2
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"Nerdherder-iOS",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":9,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":4,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"Receipts-iOS",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":1,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":5,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"android-security",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":3,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"CourseDistributionTooling",
+               "IssuesOpenedSince":1,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":4,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":2,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"nerd-association",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":3,
+               "TotalOpenPRs":3
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"AuthenticatedURLSession",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":2,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"smithsonian",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":2,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"nerdnote",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":1,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":2,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"iOSBook",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":41,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":4
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"stockwatcher",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":1,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"nerdcamp",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":1,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"flemings-winepad",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":1,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"cocoa-machine-bootstrap",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":1,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"Typesetter",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":1,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"winepad-drupal-pantheon",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":1,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"4kargarage",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":1,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"repair-dog-api-testing",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":1
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"why_elixir",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":1,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"4kargarage-front-end",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"flemings-winepad-converter",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"KeychainHelper",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"vapor-testing-example",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"bnr-ios-certificates",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"freerange",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"captioncall-hpa-ios-credentials",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"photorama_tv",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"MarkDs-Stuff",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"fcm_ruby_test",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            },
+            {
+               "Owner":"bignerdranch",
+               "Repo":"infraduino",
+               "IssuesOpenedSince":0,
+               "IssuesClosedSince":0,
+               "TotalOpenIssues":0,
+               "PRsOpenedSince":0,
+               "PRsClosedSince":0,
+               "TotalOpenPRs":0
+            }
+         ]
+      }
+   ]
+}
